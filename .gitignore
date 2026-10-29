@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.a
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ADB push temp
+/tmp/
+core.*
